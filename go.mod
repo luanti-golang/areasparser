@@ -1,3 +1,4 @@
+// Deprecated: this module has moved to github.com/luanti-golang/areasparser
 module github.com/minetest-go/areasparser
 
 go 1.19
