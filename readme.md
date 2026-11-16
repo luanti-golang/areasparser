@@ -1,8 +1,8 @@
-Minetest areas parser
+Luanti areas parser
 
-![](https://github.com/minetest-go/areasparser/workflows/test/badge.svg)
+![](https://github.com/luanti-golang/areasparser/workflows/test/badge.svg)
 
-Docs: https://pkg.go.dev/github.com/minetest-go/areasparser
+Docs: https://pkg.go.dev/github.com/luanti-golang/areasparser
 
 # Features
 
